@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Local cache database
+data/*.db
+data/*.db-*
